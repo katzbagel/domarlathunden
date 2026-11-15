@@ -1,6 +1,6 @@
 # Domarlathunden
 
-Lathund för agilitydomare enligt SKK:s agilityregler 2027–2031.
+Lathund för agilitydomare enligt agilityreglerna 2027–2031.
 
 **Öppna appen:** https://katzbagel.github.io/domarlathunden/
 

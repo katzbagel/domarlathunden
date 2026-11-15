@@ -1,6 +1,6 @@
 // Domarlathunden: gör att appen fungerar utan nät.
 // Byt VERSION vid varje ändring av index.html så hämtas den nya versionen.
-const VERSION = '2026-11-15-1';
+const VERSION = '2026-11-15-2';
 const CACHE = 'domarlathunden-' + VERSION;
 const FILES = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
 

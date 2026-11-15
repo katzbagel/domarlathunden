@@ -1,7 +1,7 @@
 {
   "name": "Domarlathunden",
   "short_name": "Domarlathunden",
-  "description": "Lathund för agilitydomare, SKK:s agilityregler 2027–2031",
+  "description": "Lathund för agilitydomare, agilityreglerna 2027–2031",
   "lang": "sv",
   "start_url": "./",
   "scope": "./",
